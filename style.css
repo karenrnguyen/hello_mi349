@@ -19,6 +19,10 @@ h2 {
     color: red;
 }
 
+#hal {
+    width: 100px;
+}
+
 .burndown {
     background: #424242;
     padding: 10px;
